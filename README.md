@@ -1,7 +1,9 @@
 
 ## Ola! Eu sou o Yhago Pessoa e bem vindo ao meu Github
 
-Atualamente sou técnico em multimídia e estou estudando programação web com JavaScript, HTML e CSS.
+Atualamente sou técnico em multimídia e estou cursando Análise e Desenvolvimento na Fatec São Paulo. 
+
+Estou estudando programação web com JavaScript, HTML e CSS.
 
 
 <div heigth="100%">
