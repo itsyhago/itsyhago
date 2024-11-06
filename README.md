@@ -3,7 +3,7 @@
 
 Atualamente sou técnico em multimídia e estou cursando Análise e Desenvolvimento na Fatec São Paulo. 
 
-Estou estudando programação web com JavaScript, HTML e CSS.
+Atualmente, tenho conhecimentos em HTML, CSS e JavaScript para desenvolvimento web, além de experiência em Python, que uso tanto para desenvolvimento quanto para análise de dados. Estou  aprimorando minhas habilidades nessas áreas e buscando novos desafios para crescer na área de tecnologia.
 
 
 <div heigth="100%">
