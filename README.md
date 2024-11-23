@@ -6,12 +6,6 @@ Atualamente sou técnico em multimídia e estou cursando Análise e Desenvolvime
 Atualmente, tenho conhecimentos em HTML, CSS e JavaScript para desenvolvimento web, além de experiência em Python, que uso tanto para desenvolvimento quanto para análise de dados. Estou  aprimorando minhas habilidades nessas áreas e buscando novos desafios para crescer na área de tecnologia.
 
 
-<div heigth="100%">
-  <a src="https://github.com/itsyhagop/itsyhago" >
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=itsyhago&show_icons=true&theme=dracula">
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyhago&layout=compact&theme=dracula">
-</div>
-
 ##
 
 Contato:
